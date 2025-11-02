@@ -4,4 +4,4 @@
 
 print(123) #aparecer na tela do terminalclear
 
-print("hoje é segunda-feiraclear");
+print("hoje é segunda-feiraclear")
