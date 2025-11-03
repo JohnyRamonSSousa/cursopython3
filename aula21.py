@@ -30,4 +30,4 @@ senha_digitada == '123456'
 if entrada == 'E':
     print('Seja bem vindo ao sistema')
 else:
-    print('Você não entrou, tente novamente')
+    print('Você não entrou, tente novamente na sua entrada')
