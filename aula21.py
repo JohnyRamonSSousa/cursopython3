@@ -23,11 +23,11 @@
 # print(True and 0 and True)
 
 entrada = input('[E]ntrar [S]air:')
-senha_digitada = input('senha:')
+senha_digitada = input('senha: ')
 
-senha_digitada == '123456'
+senha_permitida = '123'
 #if chegar um valor boolem
-if entrada == 'E':
+if entrada == 'E' and senha_digitada == senha_permitida:
     print('Seja bem vindo ao sistema')
 else:
     print('Você não entrou, tente novamente na sua entrada')
